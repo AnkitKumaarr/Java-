@@ -14,7 +14,7 @@ public class Array_basic_Input_Output {
         }
         // 2nd method -- enhanced loops
         for (int num : arr) {
-            System.out.println(arr[num]);
+            System.out.println(num);
         }
         //3rd method using toString() function
         System.out.println(Arrays.toString(arr));
